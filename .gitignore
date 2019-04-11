@@ -1,0 +1,4 @@
+# ignore the following from this repo
+.DS_Store
+.ipynb_checkpoints
+kaggle.json
